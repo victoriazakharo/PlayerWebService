@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\PlayerWebService\PlayerWebService\bin\PlayerWebService.dll.config
+c:\users\user\documents\visual studio 2013\Projects\PlayerWebService\PlayerWebService\bin\PlayerWebService.dll
+c:\users\user\documents\visual studio 2013\Projects\PlayerWebService\PlayerWebService\bin\PlayerWebService.pdb
+c:\users\user\documents\visual studio 2013\Projects\PlayerWebService\PlayerWebService\obj\Release\PlayerWebService.dll
+c:\users\user\documents\visual studio 2013\Projects\PlayerWebService\PlayerWebService\obj\Release\PlayerWebService.pdb

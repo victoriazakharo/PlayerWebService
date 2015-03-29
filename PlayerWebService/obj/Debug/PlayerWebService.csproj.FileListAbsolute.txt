@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\PlayerWebService\PlayerWebService\bin\PlayerWebService.dll.config
+c:\users\user\documents\visual studio 2013\Projects\PlayerWebService\PlayerWebService\bin\PlayerWebService.dll
+c:\users\user\documents\visual studio 2013\Projects\PlayerWebService\PlayerWebService\bin\PlayerWebService.pdb
+c:\users\user\documents\visual studio 2013\Projects\PlayerWebService\PlayerWebService\obj\Debug\PlayerWebService.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\PlayerWebService\PlayerWebService\obj\Debug\PlayerWebService.dll
+c:\users\user\documents\visual studio 2013\Projects\PlayerWebService\PlayerWebService\obj\Debug\PlayerWebService.pdb
